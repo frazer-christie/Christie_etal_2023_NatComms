@@ -1,4 +1,4 @@
-# Christie_etal_2022
+# Christie_etal_2022_NatComms
 This repository contains the MATLAB codes, associated functions and datasets used to produce Figures 2-4 and Figures S6-9 of Christie et al. (2022, Nature Communications). 
 
 Comments within each code detail the additional function, toolbox and/or dataset dependencies required, and their accession codes and/or citations where relevant. 

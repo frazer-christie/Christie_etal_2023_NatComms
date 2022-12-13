@@ -3,7 +3,7 @@ This repository contains the MATLAB codes, associated functions and datasets use
 
 Comments within each code detail the additional function, toolbox and/or dataset dependencies required, and their accession codes and/or citations where relevant. 
 
-For queries pertaining to the codes contained in this repository, please contact the corresponding author, Dr. Frazer Christie, at: fc475@cam.ac.uk.  
+For queries pertaining to this repository, please contact the corresponding author, Dr. Frazer Christie, at: fc475@cam.ac.uk.  
 
 --
 Frazer Christie, Scott Polar Research Institute, January 2023
